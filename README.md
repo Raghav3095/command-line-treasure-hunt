@@ -1,5 +1,11 @@
 # Treasure Hunt
 
+**&#9432;** **Before starting**
+> The commands used are primarily Linux based and some of them will not work on Windows.
+> 
+> You can find the Windows equivalent commands [here](https://gist.github.com/carlessanagustin/266171818584b3880f72a625dfa2513b)
+---
+
 Use the command line to find the hidden treasure. You can use:
 
 ``cd`` to change directories
@@ -12,11 +18,12 @@ Use the command line to find the hidden treasure. You can use:
 
 Ready to get started? Open a terminal and let's go!
 
-First, clone this repository and change directories into it:
+> **NOTE:** on Windows ```\``` is used as the separator between levels and ```/``` on Linux/macOS
+
+First, download this repository by clicking the big green button that says ```<> Code``` and click ```Download ZIP``` and change directories into it:
 
 ```
-git clone https://github.com/ILXL-guides/command-line-treasure-hunt.git
-cd command-line-treasure-hunt
+cd [path up till the directory]\command-line-treasure-hunt
 ```
 
 Now, start by typing `ls` in the terminal to list files, and you see this output:
